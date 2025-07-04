@@ -17,3 +17,5 @@ sum=$((num1+num2))
 
 echo "Sum of two numbers: $sum"
 
+
+#Similarly try any type of arthematic operations or check-out Arthematic-scripts.sh file
